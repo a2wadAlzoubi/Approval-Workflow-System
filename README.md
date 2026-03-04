@@ -81,3 +81,5 @@ https://github.com/7ammoodeh
 https://github.com/a2wadAlzoubi
 📄 الترخيص (License)
 هذا المشروع متاح تحت رخصة MIT. راجع ملف LICENSE لمزيد من التفاصيل.
+
+Code is private due to training program NDA, but architecture details are shared below
